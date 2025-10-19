@@ -1,0 +1,3 @@
+-Solved a linear equation using numpy library 
+-Learned a lot of numpy function and basic python functions as well
+-Would work on it in future to improve it by taking user input
